@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1529591240 source:f:\project\strinput\textinputdemo.cpp
+	"iGraphics.h"
+
+1493810122 f:\project\strinput\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1529252948 source:f:\project\strinput\untitled1.cpp
+	"iGraphics.h"
+
